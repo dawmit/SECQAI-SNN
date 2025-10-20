@@ -2,7 +2,7 @@
 
 ### Introduction
 This is an application created for the SECQAI competition, linked [here](https://www.secqai.com/insights-and-news/ai-competition).	
-It was created by our team called, rather haughtily, 'Team Geniuses'. Essentially, this SNN was trained to recongise a series of hand signals with a high level of accuracy. For full information on the application design, see [this](docs/Team Geniuses SNN Application.pdf).
+It was created by our team called, rather haughtily, 'Team Geniuses'. Essentially, this SNN was trained to recongise a series of hand signals with a high level of accuracy. For full information on the application design, see [this](docs/Team%20Geniuses%20SNN%20Application.pdf).
 
 ### Installation
 
