@@ -1,10 +1,10 @@
-#Spiking Nueral Network Application
+# Spiking Nueral Network Application
 
-###Introduction
+### Introduction
 This is an application created for the SECQAI competition, linked [here](https://www.secqai.com/insights-and-news/ai-competition).	
 It was created by our team called, rather haughtily, 'Team Geniuses'. Essentially, this SNN was trained to recongise a series of hand signals with a high level of accuracy. For full information on the application design, see [this](docs/"Team Geniuses SNN Application.pdf").
 
-###Installation
+### Installation
 
 Make sure to have all the necessary packages installed, run:
 
